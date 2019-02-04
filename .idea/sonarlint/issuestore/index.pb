@@ -8,3 +8,5 @@ C
 :
 
 scratch.py,f\9\f906be4e8351724e6d8dffed601ef9a63e49f48f
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
