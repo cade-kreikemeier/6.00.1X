@@ -10,3 +10,5 @@ C
 scratch.py,f\9\f906be4e8351724e6d8dffed601ef9a63e49f48f
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+R
+"2ndWeek-Exercise(GuessMyNumber).py,5\e\5e089df97ea8a1070be04eb75cc3957c1cf9a6a5
