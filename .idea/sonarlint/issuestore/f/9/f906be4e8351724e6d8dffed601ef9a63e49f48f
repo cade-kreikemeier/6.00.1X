@@ -1,2 +1,3 @@
 
-vpython:S1542"RRename function "iterPower" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¨®™Åùÿÿÿÿ8 ÙÒ²Œ-
+Ipython:S1481"*Remove the unused local variable "result".(ŸŞÒÈ8Ô£ -
+npython:S1542"PRename function "gcdIter" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×ÿíE8Õ-
