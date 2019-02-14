@@ -24,3 +24,7 @@ M
 2ndWeek-Exercise(gcdRecur).py,5\0\500522e3addec87a9990f92bd249e766b8aad0f7
 L
 2ndWeek-Exercise(polysum).py,f\3\f3bd9ecc34062eeaed5669722f9d9ac5c4322c67
+C
+2ndWeek-Problem1.py,6\8\68b1b70a017af268a4249aa98ced2372a5b096fb
+C
+2ndWeek-Problem2.py,f\a\fa6a9c1315ac1f9943541ad3a122c32414631c15

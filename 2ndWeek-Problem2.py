@@ -14,8 +14,8 @@ while balance > 0:
     minPayment += 10
     testBalance = balance
     for i in range(12):
-        updatedBalance = testBalance - minPayment
-        testBalance = updatedBalance + annualInterestRate / 12 * updatedBalance
+        testBalance = testBalance - minPayment
+        testBalance = testBalance + annualInterestRate / 12 * testBalance
     if testBalance <= 0:
         break
 
