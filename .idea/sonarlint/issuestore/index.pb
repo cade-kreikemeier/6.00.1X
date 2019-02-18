@@ -28,3 +28,5 @@ C
 2ndWeek-Problem1.py,6\8\68b1b70a017af268a4249aa98ced2372a5b096fb
 C
 2ndWeek-Problem2.py,f\a\fa6a9c1315ac1f9943541ad3a122c32414631c15
+C
+2ndWeek-Problem3.py,6\1\6151317f8e6f138f6145a3083b3409b26d6f33fc
