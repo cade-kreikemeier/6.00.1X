@@ -30,3 +30,7 @@ C
 2ndWeek-Problem2.py,f\a\fa6a9c1315ac1f9943541ad3a122c32414631c15
 C
 2ndWeek-Problem3.py,6\1\6151317f8e6f138f6145a3083b3409b26d6f33fc
+N
+3rdWeek-Exeercise(oddTuple).py,a\7\a7f37bf08c8891e6110d871e1eef5526ce26e8fc
+V
+&3rdWeek-ProblemSetFiles/ps3_hangman.py,3\1\316158cc72379bc5dee540bfbf1387a098be0a54
